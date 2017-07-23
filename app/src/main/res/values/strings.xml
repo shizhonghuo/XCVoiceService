@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">XCVoiceService</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_close">关闭</string>
+    <string name="app_name_music">"音乐"</string>
+    <string name="app_name_radio">"收音机"</string>
+    <string name="app_name_setting">"设置"</string>
+    <string name="app_name_phone">"电话"</string>
+    <string name="app_name_sms">"短信"</string>
+    <string name="app_name_navi">"导航"</string>
+    <string name="app_name_bluetooth">"蓝牙"</string>
+    <string name="error_nlp_result_empty">语义结果错误:结果为空</string>
+    <string name="title_activity_main">"语音助手"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="not_support_app_hint">暂不支持此功能，我可以帮您打电话、导航</string>
+
+    <string name="xiaoyan_title">小燕－成熟稳重</string>
+    <string name="xiaofeng_title">晓峰－成熟稳重</string>
+    <string name="jiajia_title">嘉嘉－温柔甜美</string>
+    <string name="xiaoxue_title">小雪－亲切大气</string>
+    <string name="nannan_title">楠楠－萌男童</string>
+    <string name="xiaoqian_title">小倩－东北话</string>
+    <string name="xiaorong_title">晓蓉－四川话</string>
+    <string name="xiaomei_title">小美－广东话</string>
+    <string name="xiaoqiang_title">小强－湖南话</string>
+    <string name="xiaokun_title">晓坤－河南话</string>
+    <string name="xiaolin_title">晓琳－台湾普通话</string>
+</resources>
